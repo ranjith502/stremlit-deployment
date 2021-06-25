@@ -1,14 +1,7 @@
+numpy==1.19.5
+sklearn==0.0
+sklearn-pandas==1.8.0
+pandas==1.1.5
+streamlit==0.83.0
 
-gunicorn
-itsdangerous
-Jinja2
-MarkupSafe
-Werkzeug
-numpy
-scipy
-scikit-learn
-matplotli
-pandas
-flasgger
-streamlit
 
